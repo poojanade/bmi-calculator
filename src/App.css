@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+ .h1 {
+  background-color: rgb(18, 146, 238);
+  color: white;
+  height: 100%;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 15vh;
+}
+
+.hwvalue {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 200;
+  border-radius: 4px;
+  width: 300;
+}
+
+.btn{
+  font-size: medium;
+  margin-top: 15px;
+  color: #fff;
+  background-color: rgb(18, 146, 238);
+  padding: 10px;
+  cursor: pointer;
+  width: 150px;
+  border-radius: 4px;
+  
+} 
+
+
